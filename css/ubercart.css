@@ -1,0 +1,13 @@
+/* Float the Ubercart product image div to the left and make it 50% width; */
+.product-image {
+	float: left;
+	clear: both;
+	width: 50%;
+	height: auto;
+	max-width: 300px;
+	}
+.product-image img{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
